@@ -1,1 +1,4 @@
-<?php echo '<p>Hello Takeshita　yoshida</p>'; ?>
+<?php
+$name = '鈴木';
+echo $name.'さん、こんにちは！';
+
