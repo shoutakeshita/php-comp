@@ -6,5 +6,5 @@ if($age < 20){
 }elseif($age >= 20){
     echo '成人です。';
 }else{
-    echo 'エラーです。';
+    echo 'エラーです';
 }
