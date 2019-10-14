@@ -2,7 +2,7 @@
 $age = 20;
 
 if($age < 20){
-    echo '未成年です';
+    echo '未成年です。';
 }elseif($age >= 20){
-    echo '成人です';
+    echo '成人です。';
 }
