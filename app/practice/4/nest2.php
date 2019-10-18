@@ -5,7 +5,7 @@ $attend = 1;
 $place ='b';
 
 if($attend === 0){
-    echo 'パーティを欠席にて承りました。';
+    echo 'パーティを欠席にて承りました。.....';
 }elseif($attend === 1){
     echo 'パーティを出席にて承りました。';
     if($place === 'a'){
