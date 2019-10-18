@@ -11,6 +11,6 @@ if($attend === 0){
     if($place === 'a'){
         echo '会場はホテルでございます。';
     }elseif($place === 'b'){
-        echo '会場はB広場でございます。';
+        echo '会場はB広場でございます';
     }
 }
